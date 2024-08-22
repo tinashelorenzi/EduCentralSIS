@@ -1,2 +1,1 @@
-# EduCentralSIS
-Student Information System for Schools
+# EduCentral SIS
